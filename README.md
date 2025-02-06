@@ -1,9 +1,4 @@
 # A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
-### [Project Page](https://xingangpan.github.io/projects/ShadeGAN.html) | [Paper](https://arxiv.org/pdf/2110.15678.pdf)
-> **A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis** <br>
-> [Xingang Pan](https://xingangpan.github.io/), [Xudong Xu](https://sheldontsui.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Bo Dai](http://daibo.info/)<br>
-> *NeurIPS2021*
-
 <p align="center">
     <img src="ShadeGAN_demo.gif", width="900">
 </p>
